@@ -16,7 +16,7 @@ Some parts of Grace RE-Envisioned are borrowed from elsewhere and used with perm
 
 ## Community assets
 
-If we allow people to use stuff that's only meant for Grace GD, they can use it for free, but not to make money, unless we give them the okay. If someone tries to make money from it without asking, we might tell them to stop doing that.
+If we allow people to use stuff that's only meant for Grace RE-Envisioned, they can use it for free, but not to make money, unless we give them the okay. If someone tries to make money from it without asking, we might tell them to stop doing that.
 
 ## Reporting bugs and issues
 
